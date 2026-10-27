@@ -1,0 +1,6 @@
+target/
+node_modules/
+.anchor/
+test-ledger/
+tests/fixtures/*.so
+*.keypair.json
